@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .mask-blur-gradient {
+    mask-image: linear-gradient(to right, black 50%, transparent);
+    -webkit-mask-image: linear-gradient(to right, black 50%, transparent);
+  }
+}
