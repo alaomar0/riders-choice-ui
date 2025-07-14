@@ -28,7 +28,7 @@ To run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/riders-choice.git
+git clone https://github.com/alaomar0/riders-choice-ui.git
 
 # Navigate to the project directory
 cd riders-choice
